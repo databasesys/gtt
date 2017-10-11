@@ -1,0 +1,6 @@
+def display (name,marks=40):
+print name:"name"
+print mark:"marks"
+return
+display(name='sachin',marks=50)
+display (name='sachin')
